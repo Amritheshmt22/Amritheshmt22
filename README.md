@@ -88,9 +88,9 @@ Responsive personal portfolio showcasing skills, projects, and achievements.
 
 ##  Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: amritheshmt22@gmail.com
 
-💼 LinkedIn: your-linkedin-profile
+💼 LinkedIn: (https://www.linkedin.com/in/amrithesh-mt-774066251/)
 
 🐙 GitHub: https://github.com/Amritheshmt22
 
