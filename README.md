@@ -1,8 +1,6 @@
-## Hi there 👋
-
 <div align="center">
 
-# Hi 👋, I'm Amrithesh M T
+# Hello,  I'm Amrithesh M T
 
 ### MCA Student | Aspiring Software Developer | Data Analytics Enthusiast
 
@@ -12,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 🎓 Pursuing **Master of Computer Applications (MCA)** at Amity University Bengaluru
 
@@ -50,7 +48,7 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### 💰 Expense Tracker
 A full-stack expense management system to track income, expenses, and financial activities.
@@ -88,7 +86,7 @@ Responsive personal portfolio showcasing skills, projects, and achievements.
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 📧 Email: your-email@example.com
 
@@ -100,6 +98,6 @@ Responsive personal portfolio showcasing skills, projects, and achievements.
 
 <div align="center">
 
-### ⭐ "Code • Learn • Build • Improve"
+###  "Code • Learn • Build • Improve"
 
 </div>
